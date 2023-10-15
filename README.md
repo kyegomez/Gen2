@@ -1,9 +1,11 @@
 [![Multi-Modality](agorabanner.png)](https://discord.gg/qUtxnK2NMf)
 
-# Paper-Implementation-Template
-A simple reproducible template to implement AI research papers 
+# Gen2
+Implementation of "Text driven video generation" in pytorch
 
-Paper Link
+This will use the implementation of Gen1 with text as an output
+
+[Paper Link](https://research.runwayml.com/gen2)
 
 # Appreciation
 * Lucidrains
@@ -12,13 +14,7 @@ Paper Link
 
 
 # Install
-
-# Usage
-
-# Architecture
-
-# Todo
-
+``
 
 # License
 MIT
